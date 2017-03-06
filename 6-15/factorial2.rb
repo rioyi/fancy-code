@@ -14,7 +14,7 @@ def factorial(n)
 			#resta = resta + 1
 		end
 		return pote
-	end	
+	end
 end
 
 puts "Ingrese un numero"
